@@ -1,0 +1,22 @@
+
+p {
+    font-size: 30px;
+    font-family: 'Loved by the King', cursive;
+}
+h1 {
+    font-size: 56px;
+    font-family: 'Amatic SC', cursive;
+}
+body {
+    background-color:azure;
+    color:maroon;
+}
+div {
+    padding-left: 20px;
+}
+img {
+    width: 500px;
+    height: 300px;
+    margin-right: 100px;
+    object-fit: 36;
+  }
